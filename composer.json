@@ -1,0 +1,15 @@
+{
+    "name": "dumko23/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "Dumko23\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dmytro Parkhomenko",
+            "email": "dmytro.parkhomenko@geocomply.com"
+        }
+    ],
+    "require": {}
+}
