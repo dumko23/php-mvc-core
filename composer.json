@@ -2,7 +2,7 @@
     "name": "dumko23/my-php-mvc-core",
     "autoload": {
         "psr-4": {
-            "Dumko23\\PhpMvcCore\\": "src/"
+            "Dumko23\\PhpMvcCore\\": "."
         }
     },
     "authors": [
