@@ -1,8 +1,8 @@
 <?php
 
-namespace App\core;
+namespace Dumko23\PhpMvcCore;
 
-use App\core\middlewares\BaseMiddleware;
+use Dumko23\PhpMvcCore\middlewares\BaseMiddleware;
 
 class Controller
 {

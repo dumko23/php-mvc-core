@@ -1,6 +1,6 @@
 <?php
 
-namespace App\core\form;
+namespace Dumko23\PhpMvcCore\form;
 
 class TextareaField extends BaseField
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace App\core;
+namespace Dumko23\PhpMvcCore;
 
-use App\core\db\DbModel;
+use Dumko23\PhpMvcCore\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace App\core\db;
+namespace Dumko23\PhpMvcCore\db;
 
-use App\core\Application;
+use Dumko23\PhpMvcCore\Application;
 use PDO;
 
 class Database

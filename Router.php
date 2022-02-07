@@ -1,8 +1,8 @@
 <?php
 
-namespace App\core;
+namespace Dumko23\PhpMvcCore;
 
-use App\core\exception\NotFoundException;
+use Dumko23\PhpMvcCore\exception\NotFoundException;
 
 class Router
 {

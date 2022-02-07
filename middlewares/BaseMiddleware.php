@@ -1,6 +1,6 @@
 <?php
 
-namespace App\core\middlewares;
+namespace Dumko23\PhpMvcCore\middlewares;
 
 abstract class BaseMiddleware
 {

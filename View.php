@@ -1,6 +1,6 @@
 <?php
 
-namespace App\core;
+namespace Dumko23\PhpMvcCore;
 
 class View
 {

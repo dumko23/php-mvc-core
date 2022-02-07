@@ -1,8 +1,8 @@
 <?php
 
-namespace App\core\form;
+namespace Dumko23\PhpMvcCore\form;
 
-use App\core\Model;
+use Dumko23\PhpMvcCore\Model;
 
 class Form
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace App\core\db;
+namespace Dumko23\PhpMvcCore\db;
 
-use App\core\Application;
-use App\core\Model;
+use Dumko23\PhpMvcCore\Application;
+use Dumko23\PhpMvcCore\Model;
 use App\models\User;
 use PDOStatement;
 

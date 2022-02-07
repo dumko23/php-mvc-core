@@ -1,9 +1,9 @@
 <?php
 
-namespace App\core\middlewares;
+namespace Dumko23\PhpMvcCore\middlewares;
 
-use App\core\Application;
-use App\core\exception\ForbiddenException;
+use Dumko23\PhpMvcCore\Application;
+use Dumko23\PhpMvcCore\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

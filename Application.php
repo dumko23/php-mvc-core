@@ -1,9 +1,9 @@
 <?php
 
-namespace App\core;
+namespace Dumko23\PhpMvcCore;
 
-use App\core\db\Database;
-use App\core\db\DbModel;
+use Dumko23\PhpMvcCore\db\Database;
+use Dumko23\PhpMvcCore\db\DbModel;
 use App\models\User;
 
 class Application
